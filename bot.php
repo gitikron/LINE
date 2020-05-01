@@ -1,5 +1,7 @@
 <?php
-$access_token = 'zXgFz0Uf48wEYx/9zou6VRrQX8U6Yf5mZ00YzYrZb2DSGTj5isZRoQ1dlpdTR4ZMLSaHPBen+jd/ewTqgZIf29bovG6p6buSQ/qiG6+uMxiWdsvEP+E0L77piQGX4UX2Xx/IcAH5a558Wfh+nBqZbgdB04t89/1O/w1cDnyilFU=';
+$access_token = '{  "channelId":
+1654156660,  "mid":"
+U01266d660cfcb2fc318062896e791521"}';
 // Get POST body content
 $content = file_get_contents('php://input');
 // Parse JSON
