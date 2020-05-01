@@ -19,7 +19,7 @@ if (!is_null($events['events'])) {
                 'type' => 'text',
                 'text' => $text,
             ];
-            curl -X GET \-H 'Authorization: Bearer {ENTER_ACCESS_TOKEN}'
+            curl -X GET \-H 'Authorization: Bearer {  "channelId":1654156660,  "mid":"U01266d660cfcb2fc318062896e791521"}'
             $url = 'https://api.line.me/v1/oauth/verify
             $data = [
                 'replyToken' => $replyToken,
